@@ -18,5 +18,25 @@
         "B3:F3:C5:D5:CA:32:79:B4:50:14:B6:5F:49:AC:42:54:77:0F:32:84:E1:67:55:71:13:FF:0E:73:FE:E2:73:79"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "cafebazaar_twa",
+      "package_name": "ir.matinmovafagh.flexcafe",
+      "sha256_cert_fingerprints": [
+        "EB:BD:10:78:9D:31:F3:DA:E7:D3:1D:05:23:01:78:72:76:5B:21:35:F5:70:9E:1A:F2:D8:99:19:1D:62:3E:17"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "cafebazaar_twa",
+      "package_name": "ir.matinmovafagh.timelineguardian",
+      "sha256_cert_fingerprints": [
+        "B3:F3:C5:D5:CA:32:79:B4:50:14:B6:5F:49:AC:42:54:77:0F:32:84:E1:67:55:71:13:FF:0E:73:FE:E2:73:79"
+      ]
+    }
   }
 ]
